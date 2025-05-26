@@ -4,3 +4,33 @@
     color: blueviolet;
     font-style: italic;
 }
+
+.Rogerio{
+    color: azure;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+.Roberto{
+    text-align: center;
+    border-color: blueviolet;
+    
+}
+
+
+
+#ima1{width: 70%;
+    border-width: 5px;
+    border-style:dotted;
+    border-color: blueviolet;
+}
+
+.kaue{
+    text-align: center;
+    color: aqua;
+    font-size: larger;
+    font-style: oblique;
+}
