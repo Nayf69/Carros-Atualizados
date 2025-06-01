@@ -30,7 +30,12 @@ body{
 
 .kaue{
     text-align: center;
-    color: aqua;
+    color: blueviolet;
     font-size: larger;
     font-style: oblique;
+}
+
+.roger{
+    color: aliceblue;
+    text-align: center;
 }
